@@ -1,3 +1,3 @@
-## Hola!! estoy aprnediendo cosas--
+## Hola!! estoy aprendiendo cosas--
 
 ## Hi!! i'm learning stuff--
