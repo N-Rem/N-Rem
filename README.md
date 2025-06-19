@@ -6,17 +6,26 @@ I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm consta
 ## 🛠️ Tech Stack & Skills
 ### 🔙 Backend
 
-    C#, ASP.NET Core, Entity Framework, Docker
+- C#, 
+- ASP.NET Core
+- Entity Framework
+- Docker
 
 ### 🎨 Frontend
 
-    JavaScript, React, React-Bootstrap
-
-    HTML5, CSS3, Figma
+- JavaScript
+- React 
+- React-Bootstrap
+- HTML5
+- CSS3
+- Figma
 
 ### 💡 Other Tools
 
-    C, Python, Notion, Jira
+- C
+- Python
+- Notion 
+- Jira
 
 ### 🎓 Education
 
@@ -28,7 +37,7 @@ I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm consta
 
 I'm a committed and responsible person who enjoys learning and building useful applications. I'm currently looking for my first opportunity to gain professional experience in a dynamic and collaborative environment.
 
-## Thanks for visiting my profile! ❤️ 
+## Thanks for visiting my profile! ❤️
 ### If you want to see more of me, I leave you my Poertfolio.
-### https://nicolas-romero-barrios.vercel.app/ 
+### https://nicolas-romero-barrios.vercel.app/ 🌍
 ### |Feel free to connect with me or check out my projects below.
