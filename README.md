@@ -6,7 +6,7 @@ I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm consta
 ## 🛠️ Tech Stack & Skills
 ### 🔙 Backend
 
-- C#, 
+- C#
 - ASP.NET Core
 - Entity Framework
 - Docker
