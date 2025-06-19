@@ -1,17 +1,34 @@
-## Hi! 👋
+# 👋 Hi there! I'm Nicolás Romero Barrios
+## 💻 Junior Developer | Programming Student at UTN (Argentina)
+I'm from **Rosario, Santa Fe, Argentina**, Greduater on  Technician in Programming at the **National Technological University** (UTN). I'm passionate about software development, and I'm actively seeking my first formal work experience in the IT industry.
 
-### I'm Nicolás Romero Barrios, a Programming student at the National Technological University (UTN). 
+I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm constantly learning and improving my programming skills. I enjoy creating APIs, designing systems, and solving real-world problems through code.
+## 🛠️ Tech Stack & Skills
+### 🔙 Backend
 
-I have attended Bootcamps on HTML5, CSS, and JavaScript, and I am continually learning and developing my programming skills. I am especially motivated to keep expanding my expertise in backend development
+    C#, ASP.NET Core, Entity Framework, Docker
 
-### Skills
-- **Backend Development:** C#, ASP.NET Core Web API, Entity Framework
-- **Frontend Development:** JSX, React, React-Bootstrap
-- **Programming Languages:** C, C#, JS, JSX, Python
+### 🎨 Frontend
 
-### Education
-- **National Technological University:** Technician in Programming (2023 - 2024)
+    JavaScript, React, React-Bootstrap
 
-### About Me
-I am very motivated to start my career in the IT world and am always looking for new opportunities to learn and grow professionally. Thank you for taking the time to read about me.
+    HTML5, CSS3, Figma
 
+### 💡 Other Tools
+
+    C, Python, Notion, Jira
+
+### 🎓 Education
+
+    Technician in Programming
+    National Technological University (UTN)
+    📍 2023 – 2024
+
+## 🙋‍♂️ About Me
+
+I'm a committed and responsible person who enjoys learning and building useful applications. I'm currently looking for my first opportunity to gain professional experience in a dynamic and collaborative environment.
+
+## Thanks for visiting my profile! 😄
+### If you want to see more of me, I leave you my Poertfolio.
+### https://nicolas-romero-barrios.vercel.app/ 
+### |Feel free to connect with me or check out my projects below.
