@@ -24,7 +24,7 @@ I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm consta
     National Technological University (UTN)
     📍 2023 – 2024
 
-## 🙋‍♂️ About Me
+## 👾 About Me
 
 I'm a committed and responsible person who enjoys learning and building useful applications. I'm currently looking for my first opportunity to gain professional experience in a dynamic and collaborative environment.
 
