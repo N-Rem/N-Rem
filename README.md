@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nicolás Romero Barrios
 ## 💻 Junior Developer | Programming Student at UTN (Argentina)
-I'm from **Rosario, Santa Fe, Argentina**, Greduater on  Technician in Programming at the **National Technological University** (UTN). I'm passionate about software development, and I'm actively seeking my first formal work experience in the IT industry.
+I'm from **Rosario, Santa Fe, Argentina**, Graduate of Technician in Programming at the **National Technological University** (UTN). I'm passionate about software development, and I'm actively seeking my first formal work experience in the IT industry.
 
 I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm constantly learning and improving my programming skills. I enjoy creating APIs, designing systems, and solving real-world problems through code.
 ## 🛠️ Tech Stack & Skills
