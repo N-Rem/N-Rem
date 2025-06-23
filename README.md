@@ -4,28 +4,16 @@ I'm from **Rosario, Santa Fe, Argentina**, Programming Technician graduate at th
 
 I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm constantly learning and improving my programming skills. I enjoy creating APIs, designing systems, and solving real-world problems through code.
 ## 🛠️ Tech Stack & Skills
-### 🔙 Backend
 
-- C#
-- ASP.NET Core
-- Entity Framework
-- Docker
+| **🔙 Backend**| **🎨 Frontend** |  **💡 Other Tools**|
+|------|-----|----|
+| C#|JavaScript|C|
+ ASP.NET Core |React|Python|
+| Entity Framework |React-Bootstrap|Notion|
+| Docker |HTML5|Jira|
+||CSS3|||
+||Figma|||
 
-### 🎨 Frontend
-
-- JavaScript
-- React 
-- React-Bootstrap
-- HTML5
-- CSS3
-- Figma
-
-### 💡 Other Tools
-
-- C
-- Python
-- Notion 
-- Jira
 
 ### 🎓 Education
 
