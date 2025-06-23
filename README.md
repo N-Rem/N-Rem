@@ -11,8 +11,8 @@ I have completed several bootcamps on HTML5, CSS, and JavaScript, and I'm consta
  ASP.NET Core |React|Python|
 | Entity Framework |React-Bootstrap|Notion|
 | - |HTML5|Jira|
-| - |CSS3||Docker|
-| - |Figma||MySQL|
+| - |CSS3|Docker|
+| - |Figma|MySQL|
 
 
 ### 🎓 Education
